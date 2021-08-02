@@ -1,4 +1,5 @@
 # traffic-light-system
+#USING assembly 8051
 
 team embedded
 
